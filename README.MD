@@ -3,8 +3,8 @@
 📍 *Universidad Tecnológica Nacional*  
 
 ## ✨ Estudiante  
-- **Nombre:** Carrion, Camila *[Modificar con su nombre completo]*  
-- **Comisión:** M2025-11 *[Modificar con su comisión, donde 7 es el número de comisión]*  
+- **Nombre:** Carrion, Camila 
+- **Comisión:** M2025-11   
 
 ## 📂 Descripción del Repositorio  
 Este repositorio almacena todas los trabajos prácticos realizados durante la cursada de **Programación 1**.  
